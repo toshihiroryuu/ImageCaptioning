@@ -1,0 +1,2 @@
+Flickr8k_Dataset.zip filter=lfs diff=lfs merge=lfs -text
+Flickr8k_text.zip filter=lfs diff=lfs merge=lfs -text
